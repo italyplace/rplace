@@ -54,7 +54,7 @@
             USE THIS FOR FIREFOX<br />
             <a href="https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/">https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/</a>
             <br /><br />
-            Then paste this script <a href="https://github.com/gmeplace/thing/blob/main/userscript.user.js">https://github.com/gmeplace/thing/blob/main/userscript.user.js</a>
+            Then paste this script <a href="https://github.com/italyplace/thing/raw/main/userscript.user.js">https://github.com/italyplace/thing/raw/main/userscript.user.js</a>
             <br /><br />
             A nice and simple 2-click solution to making sure you never place an incorrect pixel! 
         </p>
@@ -66,8 +66,8 @@
         const X_OFFSET=400
         const Y_OFFSET=100
 
-        const X_IN_PLACE=773
-        const Y_IN_PLACE=735
+        const X_IN_PLACE=787
+        const Y_IN_PLACE=254
 
         function getMousePos(canvas, evt) {
             const rect = canvas.getBoundingClientRect();
@@ -110,7 +110,7 @@
             bg.drawImage(img, 0, 0, img.width, img.height, 0, Y_OFFSET, w, h)
             drawGrid(0, Y_OFFSET, w, h + Y_OFFSET, bg)
         };
-        img.src = "https://raw.githubusercontent.com/rplacesuperstonk/rplace-image/main/reference.png";
+        img.src = "https://github.com/italyplace/thing/raw/main/art.png";
 
         function drawText(text, x, y){
             fg.font = '80px Sans-serif';
