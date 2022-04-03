@@ -10,6 +10,9 @@ jobs:
     
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: Sleep for 300 seconds
+        run: sleep 300s
+        shell: bash
       - name: Trigger build
         uses: peter-evans/repository-dispatch@v1.1.3
         with:
