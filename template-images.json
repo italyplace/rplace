@@ -1,0 +1,15 @@
+{
+  "contact": "Italian Empire Official Discord Server - https://discord.io/italy",
+  "templates": [
+    {
+      "name": "Test",
+      "sources": [
+        "https://raw.githubusercontent.com/italyplace/rplace/main/art.png"
+      ],
+      "x": -367,
+      "y": 186
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
