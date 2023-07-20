@@ -10,6 +10,6 @@
       "y": 686
     }
   ],
-  "whitelist": [],
+  "whitelist": ["https://rentry.co/placeFR2023/raw"],
   "blacklist": []
 }
