@@ -13,7 +13,6 @@ jobs:
       - name: Trigger build
         uses: peter-evans/repository-dispatch@v1.1.3
         with:
-          token: ${{ secrets.REPO_PAT }}
           repository: italyplace/thing
           event-type: generate
           client-payload: '{"branch": "${{ steps.extract_branch.outputs.tag }}"}'
