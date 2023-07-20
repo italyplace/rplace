@@ -2,7 +2,7 @@
   "contact": "Italian-Empire Official Discord Server - https://discord.io/italy",
   "templates": [
     {
-      "name": "Italian-Empire Official Discord Server",
+      "name": "bandiera",
       "sources": [
         "https://raw.githubusercontent.com/italyplace/rplace/main/art.png"
       ],
@@ -10,6 +10,8 @@
       "y": 485
     }
   ],
-  "whitelist": ["https://rentry.co/placeFR2023/raw"],
+  "whitelist": [
+    {"name":"francia template",
+    "url":"https://rentry.co/placeFR2023/raw"}],
   "blacklist": []
 }
