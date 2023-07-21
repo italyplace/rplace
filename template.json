@@ -4,7 +4,7 @@
     {
       "name": "bandiera",
       "sources": [
-        "https://raw.githubusercontent.com/italyplace/rplace/main/art.png"
+        "https://italyplace.github.io/rplace/art.png"
       ],
       "x": 551,
       "y": 624
