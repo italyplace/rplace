@@ -6,12 +6,17 @@
       "sources": [
         "https://italyplace.github.io/rplace/art.png"
       ],
-      "x": 551,
+      "x": 1051,
       "y": 624
     }
   ],
   "whitelist": [
-    {"name":"francia template",
-    "url":"https://rentry.co/placeFR2023/raw"}],
-  "blacklist": []
+    {
+      "name": "francia template",
+      "url": "https://rentry.co/placeFR2023/raw"
+    }
+  ],
+  "blacklist": [
+    
+  ]
 }
