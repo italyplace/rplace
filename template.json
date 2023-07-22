@@ -8,6 +8,14 @@
       ],
       "x": 1051,
       "y": 624
+    },
+     {
+      "name": "bandiera-2",
+      "sources": [
+        "https://italyplace.github.io/rplace/bandiera-2.png"
+      ],
+      "x": 307,
+      "y": 495
     }
   ],
   "whitelist": [
