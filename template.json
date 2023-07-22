@@ -2,6 +2,12 @@
   "contact": "Italian-Empire Official Discord Server - https://discord.io/italy",
   "templates": [
     {
+      "name": "gabibbo",
+      "sources": ["https://italyplace.github.io/rplace/gabibbo.png"],
+      "x": 331,
+      "y": 537
+    },
+    {
       "name": "bandiera",
       "sources": ["https://italyplace.github.io/rplace/art.png"],
       "x": 1051,
