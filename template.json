@@ -8,6 +8,12 @@
       "y": 505
     },
     {
+      "name": "FR1000",
+      "sources": ["https://italyplace.github.io/rplace/fr1000.png"],
+      "x": 312,
+      "y": 505
+    },
+    {
       "name": "bandiera",
       "sources": ["https://italyplace.github.io/rplace/art.png"],
       "x": 1051,
