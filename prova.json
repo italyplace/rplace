@@ -3,11 +3,21 @@
   "templates": [
     {
       "name": "bandiera",
-      "sources": [
-        "https://italyplace.github.io/rplace/art.png"
-      ],
-      "x": 551,
+      "sources": ["https://italyplace.github.io/rplace/art.png"],
+      "x": 1051,
       "y": 624
+    },
+    {
+      "name": "bandiera-2",
+      "sources": ["https://italyplace.github.io/rplace/bandiera-2.png"],
+      "x": 309,
+      "y": 495
+    },
+    {
+      "name": "legionario",
+      "sources": ["https://italyplace.github.io/rplace/legionario.png"],
+      "x": 328,
+      "y": 605
     }
   ],
   "whitelist": [
@@ -16,7 +26,5 @@
       "url": "https://rentry.co/placeFR2023/raw"
     }
   ],
-  "blacklist": [
-    
-  ]
+  "blacklist": []
 }
