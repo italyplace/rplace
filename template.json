@@ -3,9 +3,9 @@
   "contact": "Italian-Empire Official Discord Server - https://discord.io/italy",
   "templates": [
     {
-      "name": "monalisa",
+      "name": "repubblica",
       "sources": [
-        "https://italyplace.github.io/rplace/itaglia.png"
+        "https://italyplace.github.io/rplace/repubblica.png"
       ],
       "x": 336,
       "y": 1021
