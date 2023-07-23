@@ -1,4 +1,3 @@
-
 {
   "contact": "Italian-Empire Official Discord Server - https://discord.io/italy",
   "templates": [
@@ -15,28 +14,18 @@
       "sources": [
         "https://italyplace.github.io/rplace/fr1000.png"
       ],
-      "x": 1051,
+      "x": 307,
       "y": 1097
     },
     {
-      "name": "500Gialla",
+      "name": "ponte-romano",
       "sources": [
-        "https://italyplace.github.io/rplace/500gialla.png"
+        "https://italyplace.github.io/rplace/ponte_romano.png"
       ],
-      "x": 308,
-      "y": 1070
-    },
-    {
-      "name": "bandiera-2",
-      "sources": [
-        "https://italyplace.github.io/rplace/bandiera-2.png"
-      ],
-      "x": 687,
-      "y": 2542
+      "x": 307,
+      "y": 1114
     }
   ],
-  "whitelist": [
-  ],
-  "blacklist": [
-  ]
+  "whitelist": [],
+  "blacklist": []
 }
