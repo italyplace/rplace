@@ -36,12 +36,7 @@
     }
   ],
   "whitelist": [
-    {
-      "name": "francia template",
-      "url": "https://rentry.co/placeFR2023/raw"
-    }
   ],
   "blacklist": [
-    
   ]
 }
