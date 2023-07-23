@@ -3,9 +3,9 @@
   "templates": [
     {
       "name": "monalisa",
-      "sources": ["https://italyplace.github.io/rplace/monalisa.png"],
-      "x": 312,
-      "y": 505
+      "sources": ["https://italyplace.github.io/rplace/itaglia.png"],
+      "x": 1057,
+      "y": 622
     },
     {
       "name": "FR1000",
