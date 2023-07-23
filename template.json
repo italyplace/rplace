@@ -19,12 +19,12 @@
       "y": 1097
     },
     {
-      "name": "bandiera",
+      "name": "500Gialla",
       "sources": [
-        "https://italyplace.github.io/rplace/art.png"
+        "https://italyplace.github.io/rplace/500gialla.png"
       ],
-      "x": 1051,
-      "y": 1124
+      "x": 308,
+      "y": 1070
     },
     {
       "name": "bandiera-2",
