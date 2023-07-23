@@ -15,7 +15,7 @@
       "sources": [
         "https://italyplace.github.io/rplace/fr1000.png"
       ],
-      "x": 306,
+      "x": 1051,
       "y": 1097
     },
     {
@@ -31,8 +31,8 @@
       "sources": [
         "https://italyplace.github.io/rplace/bandiera-2.png"
       ],
-      "x": 309,
-      "y": 995
+      "x": 1090,
+      "y": 1495
     }
   ],
   "whitelist": [
