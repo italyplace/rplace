@@ -2,22 +2,28 @@
   "contact": "Italian-Empire Official Discord Server - https://discord.io/italy",
   "templates": [
     {
-      "name": "legionario",
-      "sources": ["https://italyplace.github.io/rplace/legionario.png"],
-      "x": 328,
-      "y": 555
+      "name": "monalisa",
+      "sources": ["https://italyplace.github.io/rplace/itaglia.png"],
+      "x": 2056,
+      "y": 1622
+    },
+    {
+      "name": "FR1000",
+      "sources": ["https://italyplace.github.io/rplace/fr1000.png"],
+      "x": 306,
+      "y": 1097
     },
     {
       "name": "bandiera",
       "sources": ["https://italyplace.github.io/rplace/art.png"],
       "x": 1051,
-      "y": 624
+      "y": 1124
     },
     {
       "name": "bandiera-2",
       "sources": ["https://italyplace.github.io/rplace/bandiera-2.png"],
       "x": 309,
-      "y": 495
+      "y": 995
     }
   ],
   "whitelist": [
