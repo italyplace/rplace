@@ -5,10 +5,10 @@
     {
       "name": "repubblica",
       "sources": [
-        "https://italyplace.github.io/rplace/repubblica.png"
+        "https://github.com/italyplace/rplace/blob/main/repubblica2.png"
       ],
       "x": 322,
-      "y": 1013
+      "y": 1025
     },
     {
       "name": "FR1000",
