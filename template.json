@@ -6,7 +6,7 @@
       "sources": [
         "https://italyplace.github.io/rplace/repubblica2.png"
       ],
-      "x": 322,
+      "x": 822,
       "y": 1001
     },
     {
@@ -14,7 +14,7 @@
       "sources": [
         "https://italyplace.github.io/rplace/fr1000.png"
       ],
-      "x": 307,
+      "x": 807,
       "y": 1097
     },
     {
@@ -22,10 +22,14 @@
       "sources": [
         "https://italyplace.github.io/rplace/ponte_romano.png"
       ],
-      "x": 307,
+      "x": 807,
       "y": 1114
     }
   ],
-  "whitelist": [],
-  "blacklist": []
+  "whitelist": [
+    
+  ],
+  "blacklist": [
+    
+  ]
 }
